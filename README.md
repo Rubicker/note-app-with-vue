@@ -23,5 +23,5 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## TODO
 
-- [ ]把actions,mutations从`store.js`中分离出来,保持整洁
-- [ ]切换到favorite后的bug问题
+- [ ] 把actions,mutations从`store.js`中分离出来,保持整洁
+- [ ] 切换到favorite后的bug问题
