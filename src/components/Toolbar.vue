@@ -26,7 +26,7 @@
       ...mapActions([
         'addNote',
         'toggleFavorite',
-        'deleteNote'
+        'deleteNote',
       ])
     }
   }
