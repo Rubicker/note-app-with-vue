@@ -19,7 +19,7 @@
   export default {
     computed: {
       ...mapGetters([
-        'isActiveFavorite'
+        'isActiveFavorite',
       ])
     },
     methods: {
